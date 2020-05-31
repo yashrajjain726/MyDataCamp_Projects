@@ -18,7 +18,7 @@ This are the projects done by me, while exploring the course of datacamp.
 
 👤 **Yashraj Jain**
 
-* Website: yashrajjain726.github.io
+* [Website](yashrajjain726.github.io)
 * [Github Profile](https://github.com/yashrajjain726)
 * [LinkedIn Profile](https://linkedin.com/in\/yashraj-jain-695453178\/)
 
