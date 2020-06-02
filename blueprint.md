@@ -1,17 +1,11 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#mydatacamp_projects-github-starshttpsimgshieldsiogithubstarsyashrajjain726mydatacamp_projectsstylesocialgithub-forkshttpsimgshieldsiogithubforksyashrajjain726mydatacamp_projectsstylesocial-)
-
-# ➤ MyDataCamp_Projects ![GitHub stars](https://img.shields.io/github/stars/yashrajjain726/MyDataCamp_Projects?style=social)![GitHub forks](https://img.shields.io/github/forks/yashrajjain726/MyDataCamp_Projects?style=social) 
+# MyDataCamp_Projects ![GitHub stars](https://img.shields.io/github/stars/yashrajjain726/MyDataCamp_Projects?style=social)![GitHub forks](https://img.shields.io/github/forks/yashrajjain726/MyDataCamp_Projects?style=social) 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/yashrajjain726/MyDataCamp_Projects) ![GitHub last commit](https://img.shields.io/github/last-commit/yashrajjain726/MyDataCamp_Projects)  ![GitHub issues](https://img.shields.io/github/issues-raw/yashrajjain726/MyDataCamp_Projects) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/yashrajjain726/MyDataCamp_Projects)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#--mydatacamp_projects)
-
-## ➤   MyDataCamp_Projects
+##   MyDataCamp_Projects
 
 
 This are the projects done by me, while exploring the course of datacamp.
@@ -20,10 +14,7 @@ This are the projects done by me, while exploring the course of datacamp.
 
 
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#author)
-
-## ➤ Author
+## Author
 
 👤 **Yashraj Jain**
 
@@ -31,30 +22,18 @@ This are the projects done by me, while exploring the course of datacamp.
 * [Github Profile](https://github.com/yashrajjain726)
 * [LinkedIn Profile](https://linkedin.com/in\/yashraj-jain-695453178\/)
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-created-and-maintained-by-)
-
-## ➤ 🙋 Created and Maintained by. 
+## 🙋 Created and Maintained by. 
 [Yashraj Jain](https://github.com/yashrajjain726)
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-contributing)
-
-## ➤ 🤝 Contributing
+## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/yashrajjain726/MyDataCamp_Projects/issues). You can also take a look at the our project and PR us .[Click to Raise PR](https://github.com/yashrajjain726/MyDataCamp_Projects/issues).
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#show-your-support)
-
-## ➤ Show your support
+## Show your support
 
 Give a ⭐️ if this project helped you!
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-license-)
-
-## ➤ © License 
+## © License 
 ```
 MIT License
 
@@ -78,7 +57,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#thanks-for-visiting-my-code-section-of-this-project-heart-)
-
-## ➤ Thanks for visiting my code section of this project :heart: 
+## Thanks for visiting my code section of this project :heart: 
